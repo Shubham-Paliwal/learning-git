@@ -20,4 +20,9 @@ int main()
 	cin.tie(NULL);
 	cout.tie(NULL);
 	cout << "shubham";
-} 
+// <<<<<<< HEAD
+// } 
+// =======
+	cout << "I can't see any";
+}
+// >>>>>>> finalone
