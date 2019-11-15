@@ -20,6 +20,4 @@ int main()
 	cin.tie(NULL);
 	cout.tie(NULL);
 	cout << "shubham";
-	cout << " paliwal here";
-	cout << " so was he";
 } 
